@@ -9,7 +9,7 @@ import java.util.UUID;
 
 @Data
 @Entity
-@Table(name = "TB_REVIEW")
+@Table(name="TB_REVIEW")
 public class ReviewModel implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
